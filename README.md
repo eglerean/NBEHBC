@@ -1,5 +1,7 @@
 # NBEHBC
 
-This is a fork from Enrico's repository. I will add the materials for my MEG lecture here and merge it upstream to Enrico's repository in due time.
+Here I will keep track of the course material in a "gitted" fashion.
 
-Marijn.
+As now the course is at its second edition, I should re-arrange files to reflect this. I will do it soon.
+
+Enrico

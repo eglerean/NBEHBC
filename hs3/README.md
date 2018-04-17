@@ -39,6 +39,8 @@ Install the Anaconda python distribution. It comes on two flavors: Anaconda and 
 1. Watch the installation process scroll by.
 1. On Linux or OSX, run `source activate nbehbc` to activate the new environment. On Windows, run `activate nbehbc`. Your prompt should change to indicate the `nbehbc` environment is now active.
 1. Run `python -c "import mne, conpy"` to see if the installation was succesfull. The command should not give you any errors and finish silently.
+1. Download the file: https://raw.githubusercontent.com/wmvanvliet/NBEHBC/master/hs3/check_system.py
+1. With the `nbehbc` environment activated, run `python check_system.py`. The script will check your system and report any problems.
 
 
 ## 3. Launch the Jupyter Notebook environment

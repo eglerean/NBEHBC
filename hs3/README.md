@@ -17,10 +17,7 @@ Install the Anaconda python distribution. It comes in two flavors: Anaconda and 
 ### Mac
 
 1. Download the installer here: https://repo.continuum.io/miniconda/Miniconda3-latest-MacOSX-x86_64.sh
-1. Open `Terminal.app` and run the following command:
-```bash
-    bash ~/Downloads/Miniconda3-latest-MacOSX-x86_64.sh
-```
+1. Open `Terminal.app` and run the following command: `bash ~/Downloads/Miniconda3-latest-MacOSX-x86_64.sh` (you may have to change the path to point to wherever you saved the installer script.)
 1. Follow the installation instructions on the screen.
 1. When prompted `Do you wish the installer to prepend the Miniconda3 install location to PATH in your /Users/<username>/.bash_profile ? [yes|no]` choose yes (unless you are running a different shell than BASH in which case it's up to you to add Miniconda3 to your `PATH`.)
 1. Close the terminal window and open a new one. Try running the `conda` command. If you get a `conda: command not found` error, Miniconda3 is not properly set in your `PATH`. 

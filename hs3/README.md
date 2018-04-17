@@ -47,7 +47,7 @@ Install the Anaconda python distribution. It comes on two flavors: Anaconda and 
 
 1. Download the preassignment notebook: https://raw.githubusercontent.com/wmvanvliet/NBEHBC/master/hs3/preassignment.ipynb
 1. In your Miniconda3 terminal, change your working directory to the path you've saved the `preassignment.ipynb` file to (the command to do this is `cd`).
-1. Make sure the `nbehbp` environment is active by running `source activate nbehbc` on Linux/Max or `activate nbehbc` on Windows.
+1. Make sure the `nbehbc` environment is active by running `source activate nbehbc` on Linux/Max or `activate nbehbc` on Windows.
 1. In the directory where the `preassignment.ipynb` file lives, run the following command: `jupyter notebook`. This should open up a browser window showing the contents of your current working directory. It will also write the URL to the terminal so you can point your browser to it manually if need be.
 1. In the browser, click on the `preassignment.ipynb` file to open it.
 

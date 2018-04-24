@@ -28,6 +28,7 @@ Install the Anaconda python distribution. It comes in two flavors: Anaconda and 
 1. Run it and follow the instructions on the screen.
 1. The "Anaconda Prompt" application should now be available on your Start menu. Open it.
 1. Try running the `conda` command in the terminal window that you just opened.
+1. Install the Visual Studio Build Tools: https://www.visualstudio.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=15
 
 
 ## 2. Create a new environment with the required Python packages: MNE-Python, Conpy

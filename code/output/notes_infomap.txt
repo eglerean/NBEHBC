@@ -1,0 +1,1 @@
+for n in $(ls *.net);do /m/nbe/scratch/braindata/eglerean/code/sensations/matlab/external/infomap/Infomap $n infomapout -N 100 --clu;done
